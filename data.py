@@ -4,7 +4,7 @@ import socket
 #aishowcompany.com 测试用例配置文件
 #metinfo 5.3.12
 
-HOST = "aishowcompany.com"
+HOST = "aitest.moresec.cn"
 PORT = 80
 
 API_IP="222.186.57.204"
